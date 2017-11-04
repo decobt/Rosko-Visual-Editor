@@ -1,12 +1,12 @@
 # Rosko Visual Editor
-Contributors: decobt
-Donate link: https://trajcheroshkoski.com/
-Tags: visual editor, rosko visual editor, block visual editor, editor, visual builder, backend builder, page builder, content editor
-Requires at least: 4.5.2
-Tested up to: 4.7.3
-Stable tag: 1.1.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: decobt
+* Donate link: https://trajcheroshkoski.com/
+* Tags: visual editor, rosko visual editor, block visual editor, editor, visual builder, backend builder, page builder, content editor
+* Requires at least: 4.5.2
+* Tested up to: 4.7.3
+* Stable tag: 1.1.1
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Drag and Drop Visual editor with 10 available modules for easy development of any site.
 
