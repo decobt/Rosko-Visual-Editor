@@ -17,7 +17,7 @@
  * Plugin URI:        https://wordpress.org/plugins/rosko-visual-editor/
  * Description:       Drag and Drop Visual editor with 10 available modules for easy development of any site.
  * Version:           1.1.1
- * Author:            Trajche Roshkoski
+ * Author:            Trajce Roshkoski
  * Author URI:        https://trajcheroshkoski.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
